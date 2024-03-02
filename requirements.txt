@@ -3,5 +3,5 @@ numpy
 tld
 flask_cors
 scikit-learn
-googlesearch
+googlesearch-python
 os
