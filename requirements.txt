@@ -1,3 +1,4 @@
 flask
 numpy
 tld
+flask_cors
