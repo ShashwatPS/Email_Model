@@ -2,4 +2,4 @@ flask
 numpy
 tld
 flask_cors
-sklearn
+scikit-learn
